@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 # Check if Ruby version is provided
 if [ -z "$1" ]; then
