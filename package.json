@@ -1,0 +1,14 @@
+{
+  "name": "diwide_rails_devcontainer",
+  "version": "1.0.0",
+  "description": "Rails devcontainer",
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "build-image": "bin/build-image"
+  },
+  "devDependencies": {
+    "@devcontainers/cli": "^0.77.0"
+  },
+  "private": true
+}
